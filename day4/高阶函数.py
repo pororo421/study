@@ -1,16 +1,14 @@
 #-*- coding:utf-8 -*-
-# @Author: Meiyan Jin
-# @Time: 2020/4/20 22:41
-# @File: 高阶函数.py
-# @Software: PyCharm
-a=1
-b=2
-def add():
-    # z=x+y
-    # print("z等于:",z)
-    return 3
-
-def minus(z,y):
-    q=z-y
-    print("q等于：",q)
-minus(add,b)
+#  @Author  :pororo
+#  @Time    :2020-04-24 下午 15:50
+#  @Note    :
+import time
+def bar():
+    time.sleep(2)
+    print("in the bar")
+def test1(func):
+    print(func)
+    func()
+test1(bar)
+t=test1(bar)
+print(t)
