@@ -1,7 +1,7 @@
 #-*- coding:utf-8 -*-
 # @Author: Meiyan Jin
 # @Time: 2020/4/26 16:24
-# @File: atm.py
+# @File: bank.py
 # @Software: PyCharm
 import os
 import sys

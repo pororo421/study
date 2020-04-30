@@ -1,3 +1,8 @@
+# -*- coding:utf-8 -*-
+# @Author: Meiyan Jin
+# @Time: 2020/4/13 16:36
+# @File: shopping_cart_qlt.py
+# @Software: PyCharm
 item = [[1, "samsung", 6000], [2, "iphone", 5000], [3, "huawei", 4000], [4, "xiaomi", 3000]]
 balance = int(input("请输入您的工资"))
 quit = 0
@@ -24,8 +29,4 @@ while swich:
             print("余额不足！")
     else:
         print("您的输入有误，请重新输入！")
-#-*- coding:utf-8 -*-
-# @Author: Meiyan Jin
-# @Time: 2020/4/13 16:36
-# @File: shopping_cart_qlt.py
-# @Software: PyCharm
+

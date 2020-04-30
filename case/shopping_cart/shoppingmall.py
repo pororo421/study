@@ -85,7 +85,7 @@ def modify_balance(cus_username, new_balance):
                     line3 = line3.replace("[", "").replace("]", "").replace(" ", "").replace("'", "") + "\n"
                 new_file.write(line3)
                 new_file.flush()
-    os.replace("cus_info.txt", "cus_info.txt")  # replace(原文件，目标文件
+    os.replace("cus_info_bank.txt", "cus_info_bank.txt")  # replace(原文件，目标文件
 
 while is_login:
     choice_system = input(str_login)

@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 # @Author: Meiyan Jin
 # @Time: 2020/4/22 22:24
-# @File: shopping_mall-pororo.py
+# @File: bank-pororo.py
 # @Software: PyCharm
 import getpass
 import os
@@ -97,7 +97,7 @@ def modify_balance(username, balance):
                     line = line.replace("[", "").replace("'", "").replace("]", "").replace(" ", "") + "\n"
                 f_new.write(line)
                 f_new.flush()
-    os.replace("cus_info.dat", "cus_info.txt")
+    os.replace("cus_info.dat", "cus_info_bank.txt")
 
 
 # 卖家登录方法

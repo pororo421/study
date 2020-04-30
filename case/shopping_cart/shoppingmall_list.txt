@@ -1,0 +1,5 @@
+huawei,1000
+xiaomi,1000
+samsung,999
+xiaomi,999
+samsung,888
