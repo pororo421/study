@@ -1,0 +1,24 @@
+<data>
+    <user name="qlt">
+        <age>90</age>
+        <sex update="yes">fe</sex>
+        <job update="yes">"it"</job>
+        <hobby>"eat"</hobby>
+        <shopping_list>
+            <iphone>5000</iphone>
+            <samsung>2000</samsung>
+        </shopping_list>
+    </user>
+    <user name="nhy">
+        <age>20</age>
+        <sex update="yes">fe</sex>
+        <job update="yes">"it"</job>
+        <hobby>"eat"</hobby>
+    </user>
+    <user name="jkl">
+        <age>30</age>
+        <sex update="yes">fe</sex>
+        <job update="yes">"it"</job>
+        <hobby>"eat"</hobby>
+    </user>
+</data>
