@@ -20,7 +20,7 @@ def modify_balance(cus_username, new_balance):
                     line = line.replace("[", "").replace(" ", "").replace("]", "").replace("'", "") + "\n"
                     f_new.write(line)
                     f_new.flush()
-    os.replace("cus_info.txt", "cus_info.txt")
+    os.replace("cus_info_bank.txt", "cus_info_bank.txt")
 
 
 def modify_cus_shoppinglist(username, product, price):

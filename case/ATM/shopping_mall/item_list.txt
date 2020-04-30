@@ -1,0 +1,5 @@
+huawei,1000
+xiaomi,2000
+samsung,3000
+iphone,4000
+oppo,5000
