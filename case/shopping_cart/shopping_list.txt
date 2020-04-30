@@ -1,0 +1,3 @@
+cus1:["xiaomi:3000","huawei:2000","samsung:7000","huawei:3000","xiaomi:1000","xiaomi:1000","xiaomi:1000","xiaomi:1000","samsung:7000","huawei:3000","xiaomi:1000","samsung:7000","huawei:3000"]
+cus2:["xiaomi:3000","huawei:2000"]
+cus3:["xiaomi:3000","huawei:2000"]
