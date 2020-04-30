@@ -13,7 +13,7 @@ import shelve
 # # shutil.copyfileobj(f1,f2)
 
 # shutil.copyfile("test2.py","test3.py")
-# shutil.make_archive("D:\workspace\python\pororo\study\day6\\test6","zip","D:\workspace\python\pororo\study\day5_1")
+# shutil.make_archive("D:\workspace\python\pororo\study\day6\\test6","zip","D:\workspace\python\pororo\study\day5")
 
 
 #压缩
